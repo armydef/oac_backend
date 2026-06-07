@@ -23,12 +23,12 @@
 	},
 	"jwt_secret": "@igea#",
 	"smtp": {
-		"host": "smtp.aruba.it",
+		"host": "151.100.101.67",
 		"port": 465,
 		"secure": true,
 		"auth": {
-			"user": "supporto@igea-soluzioni.it",
-			"pass": "<your_smtp_password>"
+			"user": "hd-lsd.dsdra@uniroma1.it",
+			"pass": "ChiaraAlessia2026"
 		}
 	},
 	"exposed":{
